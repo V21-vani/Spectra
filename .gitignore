@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Storage data (runtime sessions)
+storage/data/
+storage/temp/
+
+# Next.js
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+
+# Env
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
